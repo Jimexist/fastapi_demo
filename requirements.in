@@ -1,0 +1,4 @@
+fastapi
+beartype
+black
+uvicorn[standard]
